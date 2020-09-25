@@ -6,8 +6,8 @@ I am a programmer and student in highschool. Just started programming in python 
    • Discord Bot
     
 ## What I later want to work on!
-   • AI Snake Game 
-   • AI Flappy Bird
+   • AI Snake Game\n 
+   • AI Flappy Bird\n
    • Document Translator
    
    
