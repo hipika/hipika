@@ -6,9 +6,9 @@ I am a programmer and student in highschool. Just started programming in python 
    • Discord Bot
     
 ## What I later want to work on!
-   • AI Snake Game\n 
-   • AI Flappy Bird\n
+   • AI Snake Game
+   • AI Flappy Bird
    • Document Translator
-   
-   
+
 ## My GitHub Stats!
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=hipika)](https://github.com/anuraghazra/github-readme-stats)
