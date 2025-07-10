@@ -1,9 +1,7 @@
 # Hello 👋!
-
-I am a programmer and student in highschool. Just started programming in Python during quarantine but before that I used to program in JS and Swift. Currently, I am not working on anything too special
-
+computer engineering @ penn state
 ## What I am currently working on!
-- bord
+- currently building neuronotes
 ## What I later want to work on!
 
 ## Socials
