@@ -1,8 +1,11 @@
 # Hello 👋!
 computer engineering @ penn state
-## What I am currently working on!
+## currently working on
 - currently building neuronotes
-## What I later want to work on!
+## recently finsihed
+- minpid - a pid controller
+## future
+- nextjs + pytorch
 
 ## Socials
 [<img align="left" alt="hi pika31621 | discord" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/discord.svg">](https://discord.com/users/759222263492116555)
