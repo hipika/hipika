@@ -2,7 +2,7 @@
 computer engineering @ penn state
 ## currently working on
 - currently building neuronotes
-## recently finsihed
+## recently finished
 - minpid - a pid controller
 ## future
 - nextjs + pytorch
